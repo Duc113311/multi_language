@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>JavaScript Functions</h1>
+
+    <p>Call a function which performs a calculation and returns the result:</p>
+
+    <p id="demo"></p>
+
+    <script>
+
+
+        const XLSX = require('xlsx');
+        const fs = require('fs');
+
+        // Đường dẫn tới file Excel
+        const filePath = 'path/to/your/file.xlsx';
+
+        // Đọc file Excel
+        const workbook = XLSX.readFile(filePath);
+
+        // Lấy tên sheet đầu tiên trong file Excel
+        const sheetName = workbook.SheetNames[0];
+
+        // Lấy sheet đầu tiên
+        const worksheet = workbook.Sheets[sheetName];
+
+        // Mảng chứa dữ liệu cột A, B, C, D, E
+        const data = [];
+
+        // Đọc dữ liệu từ các cột
+        for (let i = 2; ; i++) { // Bắt đầu từ dòng thứ 2 (loại bỏ header)
+            const cellA = worksheet['A' + i];
+            const cellB = worksheet['B' + i];
+            const cellC = worksheet['C' + i];
+            const cellD = worksheet['D' + i];
+            const cellE = worksheet['E' + i];
+
+            // Kiểm tra xem có dữ liệu trong cột A hay không
+            if (cellA && cellA.v) {
+                const row = {
+                    code: cellA.v,
+                    value: cellB ? cellB.v : ''
+                };
+
+                // Thêm dữ liệu vào mảng
+                data.push(row);
+            } else {
+                // Đã hết dữ liệu, thoát khỏi vòng lặp
+                break;
+            }
+        }
+
+        // Tạo file JSON
+        const jsonContent = JSON.stringify(data, null, 2);
+        fs.writeFileSync('path/to/your/output/file.json', jsonContent);
+
+        console.log('File JSON đã được tạo thành công.');
+    </script>
+
+</body>
+
+</html>
