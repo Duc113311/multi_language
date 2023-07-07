@@ -316,5 +316,18 @@
   "search_language": "Lingua di ricerca",
   "please_provide_more_details_about_what_you_are_reporting": "Fornisci maggiori dettagli su ciò che stai segnalando",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Se esci dovrai rinnovare il tuo account ed eliminare tutte le informazioni.",
-  "invalid_date_of_birth": "Data di nascita non valida"
+  "invalid_date_of_birth": "Data di nascita non valida",
+  "are_you_sure_you_want_to_sign_out?": "Sei sicuro di voler uscire?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "Gli utenti compatibili continueranno a vederti nell'ultima posizione identificata.",
+  "delete_my_account": "Cancella il mio account",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Se vuoi mantenere l'account ma non visibile agli altri, puoi scegliere di nascondere l'account. È possibile disabilitare questa funzione nelle impostazioni.",
+  "please_verify": "Si prega di verificare",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Aiutaci a proteggere la comunità di Tinder dimostrando che stai usando una foto originale. Devi solo registrare un video selfie. Se il tuo video selfie corrisponde alla tua foto del profilo, verrai verificato!",
+  "maybe_later": "Forse più tardi",
+  "how_it_works": "Come funziona",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "La nostra tecnologia di riconoscimento del viso confronta il tuo viso nei video selfie con le foto nel tuo profilo. Terreremo due screenshot dal tuo video selfie fino a quando il tuo account è in diretta per testare e gestire la tua funzione di verifica delle foto. Conserveremo anche i risultati del processo (ad es. Verificata foto o meno).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "Conserveremo le informazioni di base del riconoscimento facciale o \"modelli\", al completamento della verifica delle foto (di solito completate entro 24 ore). Non archiviamo i tuoi video selfie.",
+  "invalid_image": "Immagine non valida",
+  "your_photo_does_not_match.please_select_a_photo_again": "La tua foto non corrisponde. Seleziona di nuovo una foto",
+  "learn_more_about_how_it_works": "Scopri di più su come funziona"
 }

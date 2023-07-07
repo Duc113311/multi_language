@@ -316,5 +316,18 @@
   "search_language": "言語を検索します",
   "please_provide_more_details_about_what_you_are_reporting": "あなたが報告しているものの詳細を提供してください",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "終了する場合は、アカウントを再登録してすべての情報を削除する必要があります。",
-  "invalid_date_of_birth": "無効な生年月日"
+  "invalid_date_of_birth": "無効な生年月日",
+  "are_you_sure_you_want_to_sign_out?": "サインアウトしたいですか？",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "互換性のあるユーザーは、最後に識別された場所で引き続きお客様に会います。",
+  "delete_my_account": "アカウントを削除します",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "アカウントを保持したいが、他の人には表示されない場合は、アカウントを非表示にすることを選択できます。この機能を設定で無効にすることができます。",
+  "please_verify": "確認してください",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "オリジナルの写真を使用していることを証明することで、Tinderコミュニティを保護してください。自撮りビデオを録音するだけです。あなたのセルフィービデオがあなたのプロフィール写真と一致する場合、あなたは確認されます！",
+  "maybe_later": "多分後で",
+  "how_it_works": "使い方",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "私たちの顔認識テクノロジーは、あなたの顔のビデオであなたの顔をあなたのプロフィールの写真と比較します。写真検証機能をテストおよび管理するためにアカウントがライブである限り、セルフィービデオから2つのスクリーンショットを保持します。また、プロセスの結果を保持します（例：写真の検証かどうか）。",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "写真検証が完了すると、基本的な顔認識情報または「テンプレート」を保持します（通常は24時間以内に完了します）。私たちはあなたのセルフィービデオを保存しません。",
+  "invalid_image": "無効な画像",
+  "your_photo_does_not_match.please_select_a_photo_again": "あなたの写真は一致しません。もう一度写真を選択してください",
+  "learn_more_about_how_it_works": "それがどのように機能するかについて詳しく知ります"
 }

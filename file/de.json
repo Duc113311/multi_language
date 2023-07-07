@@ -316,5 +316,18 @@
   "search_language": "Suchsprache",
   "please_provide_more_details_about_what_you_are_reporting": "Bitte geben Sie weitere Details zur Berichterstattung an, was Sie berichten",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Wenn Sie beenden, müssen Sie Ihr Konto erneut registrieren und alle Informationen löschen.",
-  "invalid_date_of_birth": "ungültiges Geburtsdatum"
+  "invalid_date_of_birth": "ungültiges Geburtsdatum",
+  "are_you_sure_you_want_to_sign_out?": "Sind Sie sicher, dass Sie sich anmelden möchten?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "Kompatible Benutzer sehen Sie weiterhin am letzten identifizierten Ort.",
+  "delete_my_account": "Löschen Sie mein Konto",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Wenn Sie das Konto beibehalten möchten, aber für andere nicht sichtbar sind, können Sie das Konto verbergen. Sie können diese Funktion in den Einstellungen deaktivieren.",
+  "please_verify": "Bitte überprüfen",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Helfen Sie uns, die Zunder -Community zu schützen, indem Sie beweisen, dass Sie ein Originalfoto verwenden. Sie müssen nur ein Selfie -Video aufnehmen. Wenn Ihr Selfie -Video Ihrem Profilfoto entspricht, werden Sie verifiziert!",
+  "maybe_later": "Vielleicht später",
+  "how_it_works": "Wie es funktioniert",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "Unsere Gesichtserkennungstechnologie vergleicht Ihr Gesicht in Selfie -Videos mit Fotos in Ihrem Profil. Wir werden zwei Screenshots von Ihrem Selfie -Video von Ihrem Konto live von Ihrem Konto übertragen, um Ihre Fotoüberprüfungsfunktion zu testen und zu verwalten. Wir werden auch die Ergebnisse des Prozesses beibehalten (z. B. Foto verifiziert oder nicht).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "Nach Abschluss der Fotoüberprüfung (normalerweise innerhalb von 24 Stunden abgeschlossen) werden wir Ihre grundlegenden Information über Gesichtserkennung oder \"Vorlagen\" behalten. Wir speichern Ihre Selfie -Videos nicht.",
+  "invalid_image": "Ungültiges Bild",
+  "your_photo_does_not_match.please_select_a_photo_again": "Ihr Foto stimmt nicht überein. Bitte wählen Sie ein Foto erneut aus",
+  "learn_more_about_how_it_works": "Erfahren Sie mehr darüber, wie es funktioniert"
 }

@@ -316,5 +316,18 @@
   "search_language": "搜索語言",
   "please_provide_more_details_about_what_you_are_reporting": "請提供有關您報告的內容的更多詳細信息",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "如果您退出，則必須重新註冊您的帳戶並刪除所有信息。",
-  "invalid_date_of_birth": "無效的出生日期"
+  "invalid_date_of_birth": "無效的出生日期",
+  "are_you_sure_you_want_to_sign_out?": "您確定要退出嗎？",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "兼容的用戶將繼續在最後確定的位置與您見面。",
+  "delete_my_account": "刪除我的賬戶",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "如果您想保留該帳戶但對其他人看不到，則可以選擇隱藏帳戶。您可以在設置中禁用此功能。",
+  "please_verify": "請驗證",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "通過證明您使用原始照片來幫助我們保護Tinder社區。您只需要錄製自拍視頻即可。如果您的自拍視頻與您的個人資料照片相匹配，您將得到驗證！",
+  "maybe_later": "也許以後",
+  "how_it_works": "怎麼運行的",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "我們的面部識別技術將您在自拍視頻中的臉部與個人資料中的照片進行比較。只要您的帳戶現場測試和管理您的照片驗證功能，我們將在自拍視頻中保留兩個屏幕截圖。我們還將保留該過程的結果（例如照片是否驗證）。",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "完成照片驗證後（通常在24小時內完成）後，我們將保留您的基本面部識別信息或“模板”。我們不存儲您的自拍視頻。",
+  "invalid_image": "無效的圖像",
+  "your_photo_does_not_match.please_select_a_photo_again": "您的照片不匹配。請再次選擇照片",
+  "learn_more_about_how_it_works": "了解有關其工作原理的更多信息"
 }

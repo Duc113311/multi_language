@@ -316,5 +316,18 @@
   "search_language": "Keresési nyelv",
   "please_provide_more_details_about_what_you_are_reporting": "Kérjük, adjon további részleteket arról, hogy mit jelent",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Ha kilép, akkor újra regisztrálnia kell a fiókját, és törölnie kell az összes információt.",
-  "invalid_date_of_birth": "Érvénytelen születési idő"
+  "invalid_date_of_birth": "Érvénytelen születési idő",
+  "are_you_sure_you_want_to_sign_out?": "Biztos benne, hogy ki kell jelentkezni?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "A kompatibilis felhasználók továbbra is találkoznak az utolsó azonosított helyen.",
+  "delete_my_account": "A fiókom törlése",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Ha szeretné megtartani a fiókot, de nem látható mások számára, akkor dönthet úgy, hogy elrejti a fiókot. Ezt a funkciót letilthatja a beállításokban.",
+  "please_verify": "Kérjük, ellenőrizze",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Segítsen megvédeni a Tinder közösséget azáltal, hogy bebizonyítja, hogy eredeti fényképet használ. Csak egy szelfi videót kell rögzítenie. Ha a szelfi videó megegyezik a profilfotóval, akkor ellenőrizni fogja!",
+  "maybe_later": "Talán később",
+  "how_it_works": "Hogyan működik",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "Arcfelismerési technológiánk összehasonlítja az arcát a szelfi videókban a profilodban található fotókkal. Két képernyőképet tartunk a szelfi videóból, amíg a fiókja élőben tesztelheti és kezelheti a fotó -ellenőrzési funkciót. A folyamat eredményeit is megőrizzük (pl. Photo igazolva vagy sem).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "A fotó -ellenőrzés befejezése után megőrizzük alapvető arcfelismerési adatait, vagy a \"sablonokat\" (általában 24 órán belül kitöltve). Nem tároljuk a szelfi videóit.",
+  "invalid_image": "Érvénytelen kép",
+  "your_photo_does_not_match.please_select_a_photo_again": "A fényképe nem egyezik. Kérjük, válasszon egy fényképet újra",
+  "learn_more_about_how_it_works": "Tudjon meg többet arról, hogyan működik"
 }

@@ -316,5 +316,18 @@
   "search_language": "Llenguatge de cerca",
   "please_provide_more_details_about_what_you_are_reporting": "Proporcioneu més detalls sobre el que informeu",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Si sortiu, haureu de tornar a registrar el vostre compte i suprimir tota la informació.",
-  "invalid_date_of_birth": "Data de naixement no vàlida"
+  "invalid_date_of_birth": "Data de naixement no vàlida",
+  "are_you_sure_you_want_to_sign_out?": "Esteu segur que voleu iniciar la sessió?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "Els usuaris compatibles us continuaran veient a la darrera ubicació identificada.",
+  "delete_my_account": "Suprimeix el meu compte",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Si voleu conservar el compte, però no visible per als altres, podeu optar per ocultar el compte. Podeu desactivar aquesta funció a la configuració.",
+  "please_verify": "Verifiqueu -ho",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Ajudeu -nos a protegir la comunitat Tinder demostrant que utilitzeu una foto original. Només cal gravar un vídeo selfie. Si el vostre vídeo selfie coincideix amb la vostra foto de perfil, se us comprovarà.",
+  "maybe_later": "Potser després",
+  "how_it_works": "Com funciona",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "La nostra tecnologia de reconeixement facial compara la vostra cara en vídeos selfie amb fotos del vostre perfil. Mantenirem dues captures de pantalla del vídeo selfie sempre que el vostre compte estigui en directe per provar i gestionar la vostra funció de verificació de fotos. També mantindrem els resultats del procés (per exemple, la foto verificada o no).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "Mantindrem la vostra informació bàsica de reconeixement facial o \"plantilles\", un cop finalitzada la verificació fotogràfica (normalment finalitzada en 24 hores). No emmagatzemem els vostres vídeos selfie.",
+  "invalid_image": "Imatge no vàlida",
+  "your_photo_does_not_match.please_select_a_photo_again": "La vostra foto no coincideix. Si us plau, seleccioneu una foto de nou",
+  "learn_more_about_how_it_works": "Obteniu més informació sobre com funciona"
 }

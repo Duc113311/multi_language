@@ -316,5 +316,18 @@
   "search_language": "Arama dili",
   "please_provide_more_details_about_what_you_are_reporting": "Lütfen rapor ettiğiniz hakkında daha fazla bilgi verin",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Çıkarsanız, hesabınızı yeniden kaydetmeniz ve tüm bilgileri silmeniz gerekir.",
-  "invalid_date_of_birth": "Geçersiz doğum tarihi"
+  "invalid_date_of_birth": "Geçersiz doğum tarihi",
+  "are_you_sure_you_want_to_sign_out?": "Oturum açmak istediğinden emin misin?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "Uyumlu kullanıcılar sizi en son belirlenen yerde görmeye devam edecektir.",
+  "delete_my_account": "Hesabımı sil",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Hesabı saklamak istiyorsanız, ancak başkaları tarafından görünür değilse, hesabı gizlemeyi seçebilirsiniz. Bu özelliği ayarlarda devre dışı bırakabilirsiniz.",
+  "please_verify": "Lütfen tanımla",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Orijinal bir fotoğraf kullandığınızı kanıtlayarak Tinder topluluğunu korumamıza yardımcı olun. Sadece bir selfie videosu kaydetmeniz gerekiyor. Selfie videonuz profil fotoğrafınızla eşleşiyorsa, doğrulanacaksınız!",
+  "maybe_later": "Belki sonra",
+  "how_it_works": "Nasıl çalışır",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "Yüz tanıma teknolojimiz, selfie videolarındaki yüzünüzü profilinizdeki fotoğraflarla karşılaştırır. Fotoğraf doğrulama özelliğinizi test etmek ve yönetmek için hesabınız canlı olduğu sürece selfie videonuzdan iki ekran görüntüsü tutacağız. Ayrıca sürecin sonuçlarını da tutacağız (örneğin fotoğraf doğrulanıp doğrulanmadığı).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "Fotoğraf doğrulamasını tamamladıktan sonra (genellikle 24 saat içinde tamamlanmıştır) temel yüz tanıma bilgilerinizi veya \"şablonları\" tutacağız. Selfie videolarınızı saklamıyoruz.",
+  "invalid_image": "Geçersiz resim",
+  "your_photo_does_not_match.please_select_a_photo_again": "Fotoğrafınız eşleşmiyor. Lütfen tekrar bir fotoğraf seçin",
+  "learn_more_about_how_it_works": "Nasıl çalıştığı hakkında daha fazla bilgi edinin"
 }

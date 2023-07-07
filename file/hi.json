@@ -316,5 +316,18 @@
   "search_language": "खोज भाषा",
   "please_provide_more_details_about_what_you_are_reporting": "कृपया आप जो रिपोर्ट कर रहे हैं उसके बारे में अधिक जानकारी प्रदान करें",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "यदि आप बाहर निकलते हैं तो आपको अपने खाते को फिर से पंजीकृत करना होगा और सभी जानकारी को हटा देना होगा।",
-  "invalid_date_of_birth": "अमान्य जन्म तिथि"
+  "invalid_date_of_birth": "अमान्य जन्म तिथि",
+  "are_you_sure_you_want_to_sign_out?": "क्या आप द्वारा साइन आउट किया जाना सुनिश्चित है?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "संगत उपयोगकर्ता आपको अंतिम पहचाने गए स्थान पर देखना जारी रखेंगे।",
+  "delete_my_account": "मेरा एकाउंट हटा दो",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "यदि आप खाता रखना चाहते हैं लेकिन दूसरों को दिखाई नहीं देते हैं, तो आप खाता छिपाने के लिए चुन सकते हैं। आप इस सुविधा को सेटिंग्स में अक्षम कर सकते हैं।",
+  "please_verify": "कृपया पुष्टि",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "आप एक मूल फोटो का उपयोग करने से साबित करके टिंडर समुदाय की रक्षा करने में हमारी मदद करें। आपको बस एक सेल्फी वीडियो रिकॉर्ड करने की आवश्यकता है। यदि आपका सेल्फी वीडियो आपके प्रोफ़ाइल फ़ोटो से मेल खाता है, तो आपको सत्यापित किया जाएगा!",
+  "maybe_later": "शायद बाद में",
+  "how_it_works": "यह काम किस प्रकार करता है",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "हमारी चेहरा पहचान तकनीक आपके प्रोफ़ाइल में फ़ोटो के साथ सेल्फी वीडियो में आपके चेहरे की तुलना करती है। जब तक आपका खाता आपके फोटो सत्यापन सुविधा का परीक्षण करने और प्रबंधित करने के लिए लाइव है, तब तक हम आपके सेल्फी वीडियो से दो स्क्रीनशॉट रखेंगे। हम प्रक्रिया के परिणाम भी रखेंगे (जैसे कि फोटो सत्यापित या नहीं)।",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "हम आपकी बुनियादी चेहरे की पहचान की जानकारी, या \"टेम्प्लेट,\", फोटो सत्यापन के पूरा होने पर रखेंगे (आमतौर पर 24 घंटे के भीतर पूरा होता है)। हम आपके सेल्फी वीडियो को स्टोर नहीं करते हैं।",
+  "invalid_image": "अमान्य छवि",
+  "your_photo_does_not_match.please_select_a_photo_again": "आपका फोटो मेल नहीं खाता है। कृपया फिर से एक फोटो चुनें",
+  "learn_more_about_how_it_works": "यह कैसे काम करता है, इसके बारे में और जानें"
 }

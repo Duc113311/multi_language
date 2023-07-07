@@ -316,5 +316,18 @@
   "search_language": "Doorzoektaal",
   "please_provide_more_details_about_what_you_are_reporting": "Geef meer informatie over wat u meldt",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Als u verlaat, moet u uw account opnieuw registreren en alle informatie verwijderen.",
-  "invalid_date_of_birth": "Ongeldige geboortedatum"
+  "invalid_date_of_birth": "Ongeldige geboortedatum",
+  "are_you_sure_you_want_to_sign_out?": "Weet je zeker dat je je wilt afmelden?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "Compatibele gebruikers zullen u blijven zien op de laatste geïdentificeerde locatie.",
+  "delete_my_account": "Verwijder mijn account",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Als u het account wilt behouden maar niet zichtbaar voor anderen wilt, kunt u ervoor kiezen om het account te verbergen. U kunt deze functie in de instellingen uitschakelen.",
+  "please_verify": "Aub controleren",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Help ons de Tinder -gemeenschap te beschermen door te bewijzen dat u een originele foto gebruikt. Je hoeft alleen maar een selfie -video op te nemen. Als je selfie -video overeenkomt met je profielfoto, word je geverifieerd!",
+  "maybe_later": "Misschien later",
+  "how_it_works": "Hoe het werkt",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "Onze gezichtsherkenningstechnologie vergelijkt je gezicht in selfie -video's met foto's in je profiel. We houden twee screenshots uit je selfie -video zolang je account live is om je fotoverificatiefunctie te testen en te beheren. We zullen ook de resultaten van het proces behouden (bijv. Foto geverifieerd of niet).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "We houden uw basisinformatie voor gezichtsherkenning of 'sjablonen' bij het voltooien van fotoverificatie (meestal binnen 24 uur voltooid). We slaan je selfie -video's niet op.",
+  "invalid_image": "Ongeldige afbeelding",
+  "your_photo_does_not_match.please_select_a_photo_again": "Uw foto komt niet overeen. Selecteer opnieuw een foto opnieuw",
+  "learn_more_about_how_it_works": "Lees meer over hoe het werkt"
 }

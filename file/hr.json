@@ -316,5 +316,18 @@
   "search_language": "Jezik pretraživanja",
   "please_provide_more_details_about_what_you_are_reporting": "Navedite više detalja o onome što prijavljujete",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Ako izađete, morat ćete ponovno registrirati svoj račun i izbrisati sve podatke.",
-  "invalid_date_of_birth": "Nevažeći datum rođenja"
+  "invalid_date_of_birth": "Nevažeći datum rođenja",
+  "are_you_sure_you_want_to_sign_out?": "Jeste li sigurni da se želite odjaviti?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "Kompatibilni korisnici i dalje će vas vidjeti na posljednjem identificiranom mjestu.",
+  "delete_my_account": "Izbriši moj račun",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Ako želite zadržati račun, ali nije vidljiv drugima, možete sakriti račun. Ovu značajku možete onemogućiti u postavkama.",
+  "please_verify": "Molimo provjerite",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Pomozite nam da zaštitimo zajednicu Tinder dokazujući da koristite originalnu fotografiju. Samo trebate snimiti selfie video. Ako vaš selfie video odgovara vašoj fotografiji profila, bit ćete provjereni!",
+  "maybe_later": "Možda kasnije",
+  "how_it_works": "Kako radi",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "Naša tehnologija prepoznavanja lica uspoređuje vaše lice u selfie videozapisima sa fotografijama na vašem profilu. Dvije ćemo snimke zaslona iz vašeg selfie videa sve dok je vaš račun uživo za testiranje i upravljanje značajkom provjere fotografija. Također ćemo zadržati rezultate postupka (npr. Photo ovjerenu ili ne).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "Pomoć ćemo zadržati vaše osnovne podatke o prepoznavanju lica ili \"predloške\", nakon završetka provjere fotografije (obično dovršene u roku od 24 sata). Ne pohranjujemo vaše selfie videozapise.",
+  "invalid_image": "Nevaljana slika",
+  "your_photo_does_not_match.please_select_a_photo_again": "Vaša se fotografija ne podudara.pojavite ponovo fotografiju",
+  "learn_more_about_how_it_works": "Saznajte više o tome kako to funkcionira"
 }

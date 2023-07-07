@@ -316,5 +316,18 @@
   "search_language": "Мови пошуку",
   "please_provide_more_details_about_what_you_are_reporting": "Будь ласка, надайте детальніше про те, про що ви повідомляєте",
   "if_you_exit_you_will_have_to_re-register_your_account_and_delete_all_information.": "Якщо ви вийдете, вам доведеться повторно реєструвати свій обліковий запис та видалити всю інформацію.",
-  "invalid_date_of_birth": "Недійсна дата народження"
+  "invalid_date_of_birth": "Недійсна дата народження",
+  "are_you_sure_you_want_to_sign_out?": "Ви впевнені, що хочете підписатись?",
+  "compatible_users_will_continue_to_see_you_in_the_last_identified_location.": "Сумісні користувачі продовжуватимуть бачити вас в останньому ідентифікованому місці.",
+  "delete_my_account": "Видаліть мій рахунок",
+  "if_you_want_to_keep_the_account_but_not_visible_to_others,_you_can_choose_to_hide_the_account._you_can_disable_this_feature_in_the_settings.": "Якщо ви хочете зберегти обліковий запис, але не видно іншим, ви можете вибрати, щоб приховати рахунок. Ви можете відключити цю функцію в налаштуваннях.",
+  "please_verify": "Будь ласка, перевірте",
+  "help_us_protect_the_tinder_community_by_proving_you're_using_an_original_photo._you_just_need_to_record_a_selfie_video._if_your_selfie_video_matches_your_profile_photo,_you'll_be_verified!": "Допоможіть нам захистити спільноту Tinder, довівши, що ви використовуєте оригінальну фотографію. Вам просто потрібно записати відео селфі. Якщо ваше відео Selfie відповідає вашій фотографії профілю, ви будете перевірені!",
+  "maybe_later": "Можливо пізніше",
+  "how_it_works": "Як це працює",
+  "our_face_recognition_technology_compares_your_face_in_selfie_videos_with_photos_in_your_profile._we'll_keep_two_screenshots_from_your_selfie_video_for_as_long_as_your_account_is_live_to_test_and_manage_your_photo_verification_feature._we_will_also_keep_the_results_of_the_process_(e.g._photo_verified_or_not).": "Наша технологія розпізнавання обличчя порівнює ваше обличчя у селфі -відео з фотографіями у вашому профілі. Ми зберігаємо два скріншоти з вашого відео з селфі, поки ваш обліковий запис буде в прямому ефірі для тестування та управління функцією перевірки фотографій. Ми також збережемо результати процесу (наприклад, фотографія перевірена чи ні).",
+  "we'll_keep_your_basic_facial_recognition_information,_or_\"templates,\"_upon_completion_of_photo_verification_(usually_completed_within_24_hours)._we_do_not_store_your_selfie_videos.": "Після завершення перевірки фотографій ми збережемо вашу основну інформацію про розпізнавання обличчя або \"шаблони\" (зазвичай завершені протягом 24 годин). Ми не зберігаємо ваші селфі відео.",
+  "invalid_image": "Недійсне зображення",
+  "your_photo_does_not_match.please_select_a_photo_again": "Ваша фотографія не відповідає. Будь ласка, знову виберіть фотографію",
+  "learn_more_about_how_it_works": "Дізнайтеся більше про те, як це працює"
 }
